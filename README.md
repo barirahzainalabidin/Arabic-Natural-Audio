@@ -32,5 +32,8 @@ Model - Open AI
 
 # WAV Files Sound
 
-- 
+
+Wav 1 - https://github.com/barirahzainalabidin/Arabic-Natural-Audio/blob/main/arabic-natural-audio-whispers-open-ai.ipynb
+
+Wav 2 - 
 
