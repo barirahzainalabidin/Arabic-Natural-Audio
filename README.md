@@ -1,2 +1,2 @@
-# Whispers-Open-AI
+# Arabic-Natural-Audio
 Model - Open AI
