@@ -37,3 +37,14 @@ Wav 1 - https://github.com/barirahzainalabidin/Arabic-Natural-Audio/blob/main/ar
 
 Wav 2 - 
 
+Wav 3 - 
+
+Wav 4 - 
+
+Wav 5 - 
+
+Wav 6 - 
+
+Wav 7 - 
+
+Wav 8 - 
