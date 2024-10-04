@@ -28,3 +28,9 @@ Model - Open AI
 
 - indicates that the model is quite confident that this segment contains speech, not silence or noise.
 
+
+
+# WAV Files Sound
+
+- 
+
