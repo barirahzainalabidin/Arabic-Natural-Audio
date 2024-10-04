@@ -41,10 +41,10 @@ Wav 3 - https://github.com/barirahzainalabidin/Arabic-Natural-Audio/blob/main/ar
 
 Wav 4 - https://github.com/barirahzainalabidin/Arabic-Natural-Audio/blob/main/arabic-natural-audio-wav-4-whispers-open-ai.ipynb
 
-Wav 5 - 
+Wav 5 - https://github.com/barirahzainalabidin/Arabic-Natural-Audio/blob/main/arabic-natural-audio-wav-5-whispers-open-ai.ipynb
 
-Wav 6 - 
+Wav 6 - https://github.com/barirahzainalabidin/Arabic-Natural-Audio/blob/main/arabic-natural-audio-wav-6-whispers-open-ai.ipynb
 
-Wav 7 - 
+Wav 7 - https://github.com/barirahzainalabidin/Arabic-Natural-Audio/blob/main/arabic-natural-audio-wav-7-whispers-open-ai.ipynb
 
-Wav 8 - 
+Wav 8 - https://github.com/barirahzainalabidin/Arabic-Natural-Audio/blob/main/arabic-natural-audio-wav-8-whispers-open-ai.ipynb
