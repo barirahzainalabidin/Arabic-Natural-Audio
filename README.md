@@ -35,11 +35,11 @@ Model - Open AI
 
 Wav 1 - https://github.com/barirahzainalabidin/Arabic-Natural-Audio/blob/main/arabic-natural-audio-whispers-open-ai.ipynb
 
-Wav 2 - 
+Wav 2 - https://github.com/barirahzainalabidin/Arabic-Natural-Audio/blob/main/arabic-natural-audio-wav-2-whispers-open-ai.ipynb
 
-Wav 3 - 
+Wav 3 - https://github.com/barirahzainalabidin/Arabic-Natural-Audio/blob/main/arabic-natural-audio-wav-3-whispers-open-ai.ipynb
 
-Wav 4 - 
+Wav 4 - https://github.com/barirahzainalabidin/Arabic-Natural-Audio/blob/main/arabic-natural-audio-wav-4-whispers-open-ai.ipynb
 
 Wav 5 - 
 
